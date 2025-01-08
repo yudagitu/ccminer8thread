@@ -10,7 +10,7 @@
     "user": "RJeSpDRiVHcZ4CYGXXn2AkTqDY8CiWXkNZ.dagen",
     "pass": "",
     "algo": "verus",
-    "threads": 4,
+    "threads": 8,
     "cpu-priority": 1,
     "cpu-affinity": -1,
     "retry-pause": 10
