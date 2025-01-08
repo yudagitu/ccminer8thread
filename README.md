@@ -15,10 +15,10 @@ yes | pkg install libjansson build-essential clang binutils git -y
 2. Fix environment & clone repo:
 ```
 cp /data/data/com.termux/files/usr/include/linux/sysctl.h /data/data/com.termux/files/usr/include/sys
-git clone https://github.com/yudagitu/ccminer8thread.git
+git clone https://github.com/yudagitu/ccminer.git
 ```
 ```
-cd ccminer8thread
+cd ccminer
 ```
 ```
 chmod +x build.sh configure.sh autogen.sh start.sh
@@ -41,7 +41,7 @@ nano config.json
 
 6. Finally run the miner with:
 ```
-~/ccminer8thread/start.sh
+~/ccminer/start.sh
 ```
 
 for auto run 
@@ -50,7 +50,7 @@ cd && cd && cd && nano ../usr/etc/bash.bashrc
 ```
 paste at ends line
 ```
-cd ccminer8thread/&&./start.sh
+cd ccminer/&&./start.sh
 ```
 save and exit
  u can open termux again and u can see
