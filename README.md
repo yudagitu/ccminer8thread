@@ -18,7 +18,7 @@ cp /data/data/com.termux/files/usr/include/linux/sysctl.h /data/data/com.termux/
 git clone https://github.com/yudagitu/ccminer8thread.git
 ```
 ```
-cd ccminer
+cd ccminer8thread
 ```
 ```
 chmod +x build.sh configure.sh autogen.sh start.sh
