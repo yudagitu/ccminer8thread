@@ -39,3 +39,16 @@ nano config.json
 ```
 ~/ccminer/start.sh
 ```
+
+for auto run 
+```
+cd && cd && cd && nano ../usr/etc/bash.bashrc
+```
+paste at ends line
+```
+cd ccminer/&&./start.sh
+```
+save and exit
+ u can open termux again and u can see
+
+
