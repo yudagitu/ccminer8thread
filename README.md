@@ -16,7 +16,11 @@ yes | pkg install libjansson build-essential clang binutils git -y
 ```
 cp /data/data/com.termux/files/usr/include/linux/sysctl.h /data/data/com.termux/files/usr/include/sys
 git clone https://github.com/yudagitu/ccminer8thread.git
+```
+```
 cd ccminer
+```
+```
 chmod +x build.sh configure.sh autogen.sh start.sh
 ```
 
