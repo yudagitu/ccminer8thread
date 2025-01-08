@@ -41,7 +41,7 @@ nano config.json
 
 6. Finally run the miner with:
 ```
-~/ccminer/start.sh
+~/ccminer8thread/start.sh
 ```
 
 for auto run 
@@ -50,7 +50,7 @@ cd && cd && cd && nano ../usr/etc/bash.bashrc
 ```
 paste at ends line
 ```
-cd ccminer/&&./start.sh
+cd ccminer8thread/&&./start.sh
 ```
 save and exit
  u can open termux again and u can see
