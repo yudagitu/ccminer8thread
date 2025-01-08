@@ -1,6 +1,6 @@
 # CCminer for Termux
 
-Based on: https://github.com/Oink70/CCminer-ARM-optimized
+Based on: https://github.com/Oink70/CCminer-ARM-optimized & https://github.com/Darktron/ccminer
 
 Install latest arm64-v8a Termux: https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk
 
